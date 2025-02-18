@@ -23,7 +23,7 @@
 
   <h2>🏆 Conquistas e Projetos</h2>
   <p>🔹 <strong>SPI + ABDI Gen AI Challenge 2024</strong> - 1º Lugar: Desenvolvimento de um robô com inteligência artificial para reconhecimento e transporte de objetos.</p>
-  <p>🔹 <strong>Raízen Smart Mobility Challenge 2023</strong> - 1º Lugar: Desenvolvimento de soluções inovadoras para mobilidade inteligente.</p>
+  <p>🔹 <strong> <a href="https://github.com/amoreira2003/PowerSync">Raízen Smart Mobility Challenge 2023 </a></strong> - 1º Lugar: Desenvolvimento de soluções inovadoras para mobilidade inteligente.</p>
 
   <h2>📚 Formação Acadêmica</h2>
   <p><strong>Faculdade de Informática e Administração Paulista (FIAP)</strong></p>
