@@ -12,15 +12,14 @@
 
 <h2>🏆 Achievements & Projects</h2>
 <p>🔹 <strong>SPI + ABDI Gen AI Challenge 2024</strong> - 1st Place: Developed an AI-powered robot capable of recognizing and transporting objects.</p>
-<p>🔹 <strong>Raízen Smart Mobility Challenge 2023</strong> - 1st Place: Developed innovative solutions for smart mobility.</p>
-<p>🔹 <a href="https://github.com/seu-usuario/jogo-adivinhacao">Guessing Game</a> - A small interactive game that guesses the user's number.</p>
+<p>🔹 <strong> <a href= https://github.com/amoreira2003/PowerSync>Raízen Smart Mobility Challenge 2023</a></strong> - 1st Place: Developed innovative solutions for smart mobility.</p>
 
 <h2>📚 Education</h2>
 <p><strong>Faculdade de Informática e Administração Paulista (FIAP)</strong></p>
 <p>📅 2023 - 2027 | Computer Engineering</p>
 
 <h2>📜 Certifications</h2>
-<ul>
+<ul> 
     <li>FCE: First Certificate of English - Cambridge (2023)</li>
     <li>Java Fundamentals - FIAP Nano Course (2024)</li>
     <li>iOS Development - FIAP Nano Course (2024)</li>
