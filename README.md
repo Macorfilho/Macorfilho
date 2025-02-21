@@ -20,7 +20,7 @@
 
 <h2>📜 Certifications</h2>
 <ul> 
-    <li>FCE: First Certificate of English - Cambridge (2023)</li>
+    <li>FCE: First Certificate of English - Cambridge (2019)</li>
     <li>Java Fundamentals - FIAP Nano Course (2024)</li>
     <li>iOS Development - FIAP Nano Course (2024)</li>
     <li>Social Training & Sustainability - FIAP Nano Course (2023)</li>
