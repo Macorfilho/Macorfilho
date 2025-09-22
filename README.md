@@ -1,11 +1,12 @@
 <h2>🔧 Technologies & Tools</h2>
 <ul>
-    <li>Python 🐍</li>
+    <li>Python</li>
+    <li>Flask</li>
     <li>JavaScript</li>
     <li>HTML, CSS</li>
     <li>SQL</li>
-    <li>iOS Development</li>
     <li>Java</li>
+    <li>Spring Boot</li>
     <li>Figma (UI/UX)</li>
     <li>SolidWorks & Fusion 360 (CAD)</li>
 </ul>
