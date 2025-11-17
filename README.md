@@ -129,14 +129,14 @@ Leading project refinement and specification in the Automation area, focusing on
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Macorfilho/projeto-digital-twin" target="_blank">
+  <a href="https://github.com/Macorfilho/festo-digital-twin" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Macorfilho&repo=festo-digital-twin&theme=tokyonight" />
   </a>
   <a href="https://github.com/Macorfilho/api-marcacao-consultas" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Macorfilho&repo=api-marcacao-consultas&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Macorfilho/pycalculator" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Macorfilho&repo=pycalculator&theme=tokyonight" />
+  <a href="https://github.com/Macorfilho/FestoAssist" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Macorfilho&repo=FestoAssist&theme=tokyonight" />
   </a>
   <a href="https://github.com/Macorfilho/marcacaoDeConsultasMedicas-ECB" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Macorfilho&repo=marcacaoDeConsultasMedicas-ECB&theme=tokyonight" />
