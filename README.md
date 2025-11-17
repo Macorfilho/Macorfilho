@@ -12,8 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=Macorfilho&color=blueviolet&style=for-the-badge" />
 </div>
 
----
-
 ## 👨‍💻 About Me
 
 Computer Engineering student at FIAP (2023-2027) passionate about using technology to solve real-world challenges. My tech journey started with curiosity about how things work and evolved into creating solutions that positively impact society.
@@ -38,8 +36,6 @@ interests:
   ]
 currently_learning: ["Local LLMs", "Cloud Infrastructure", "RAG Systems"]
 ```
-
----
 
 ## 🏆 Achievements & Recognition
 
@@ -115,7 +111,37 @@ VisAI - AI Assistant for accessibility, the only team with a 100% functional pro
 </tr>
 </table>
 
----
+## 💼 Professional Experience
+
+### 🏦 BTG Pactual - Product Owner (Automation)
+
+**April 2025 - August 2025 | Internship**
+
+Leading project refinement and specification in the Automation area, focusing on optimizing manual and high-risk routines:
+
+- 📊 **Process Analysis:** Identifying opportunities for efficiency gains
+- 🎨 **UI/UX Prototyping:** Interface design in Figma
+- 📝 **Technical Documentation:** Detailed project specifications
+- 🤝 **Collaboration:** Cross-functional work with technical teams
+
+**Developed Skills:** Product Management, Process Analysis, UI/UX Design, Technical Documentation
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/Macorfilho/projeto-digital-twin" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Macorfilho&repo=festo-digital-twin&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Macorfilho/api-marcacao-consultas" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Macorfilho&repo=api-marcacao-consultas&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Macorfilho/pycalculator" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Macorfilho&repo=pycalculator&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Macorfilho/marcacaoDeConsultasMedicas-ECB" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Macorfilho&repo=marcacaoDeConsultasMedicas-ECB&theme=tokyonight" />
+  </a>
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -155,149 +181,6 @@ VisAI - AI Assistant for accessibility, the only team with a 100% functional pro
 ![Backend](https://img.shields.io/badge/Backend-121011?style=for-the-badge&logo=node.js&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-013243?style=for-the-badge&logo=pandas&logoColor=white)
 
----
-
-## 💼 Professional Experience
-
-### 🏦 BTG Pactual - Product Owner (Automation)
-
-**April 2025 - August 2025 | Internship**
-
-Leading project refinement and specification in the Automation area, focusing on optimizing manual and high-risk routines:
-
-- 📊 **Process Analysis:** Identifying opportunities for efficiency gains
-- 🎨 **UI/UX Prototyping:** Interface design in Figma
-- 📝 **Technical Documentation:** Detailed project specifications
-- 🤝 **Collaboration:** Cross-functional work with technical teams
-
-**Developed Skills:** Product Management, Process Analysis, UI/UX Design, Technical Documentation
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-  <td width="50%">
-    <h3 align="center">Digital Twin System - Festo</h3>
-    <div align="center">
-      <a href="https://github.com/Macorfilho/projeto-digital-twin" target="_blank">
-        <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <p><strong>Python, IoT, Data Analysis</strong></p>
-      <p>Digital twin system for industrial monitoring developed in partnership with Festo, applying IoT concepts and predictive analysis.</p>
-    </div>
-  </td>
-  <td width="50%">
-    <h3 align="center">REST API - Appointment Scheduling</h3>
-    <div align="center">
-      <a href="https://github.com/Macorfilho/api-marcacao-consultas" target="_blank">
-        <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <p><strong>Java, Spring Boot, SQL</strong></p>
-      <p>Complete API for medical appointment scheduling with authentication, validations, and data persistence.</p>
-    </div>
-  </td>
-</tr>
-<tr>
-  <td width="50%">
-    <h3 align="center">PyCalculator</h3>
-    <div align="center">
-      <a href="https://github.com/Macorfilho/pycalculator" target="_blank">
-        <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <p><strong>Python</strong></p>
-      <p>Calculator developed in Python with intuitive interface and advanced features.</p>
-    </div>
-  </td>
-  <td width="50%">
-    <h3 align="center">Appointment Scheduling - Java API</h3>
-    <div align="center">
-      <a href="https://github.com/Macorfilho/api-marcacao-consultas" target="_blank">
-        <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <p><strong>Java, Spring Boot</strong></p>
-      <p>Electronic medical record system with complete REST API for medical records management.</p>
-    </div>
-  </td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macorfilho&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Macorfilho&theme=tokyonight" alt="Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Macorfilho&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
----
-
-## 📈 Recent Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Macorfilho/Macorfilho/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Macorfilho/Macorfilho/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/Macorfilho/Macorfilho/blob/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
----
-
-## 🎓 Education & Certifications
-
-### 🏫 Academic Education
-
-**Faculdade de Informática e Administração Paulista (FIAP)**
-
-- Computer Engineering
-- January 2023 - December 2027
-
-### 📜 Certifications
-
-**Python:**
-
-- Python with Object-Oriented Programming - Alura (March 2025)
-- Python: Create Your First Application - Alura (March 2025)
-- Python: Applying Object-Oriented Programming - Alura (March 2025)
-- Python: Advancing in Object-Oriented Programming - Alura (March 2025)
-
-**Java:**
-
-- Java Development - FIAP Nano Course (February 2025)
-- Java: Creating Your First Application - Alura (March 2025)
-- Java Fundamentals - FIAP Nano Course (June 2024)
-
-**DevOps & Version Control:**
-
-- Git and GitHub: Mastering Version Control - Alura (April 2025)
-- Git and GitHub: Sharing and Collaborating on Projects - Alura (April 2025)
-
-**Web & Mobile:**
-
-- JavaScript and HTML: Develop a Game - Alura (February 2024)
-- iOS Development - FIAP Nano Course (October 2024)
-
-**Fundamentals & Soft Skills:**
-
-- Algorithms: Learn to Program - FIAP Nano Course (October 2023)
-- Social Formation and Sustainability - FIAP Nano Course (March 2023)
-
-**English:**
-
-- First Certificate of English (FCE) - Cambridge (December 2019)
-- Preliminary English Test (PET) - Cambridge (June 2019)
-
----
-
 ## ⚙️ How I Work
 
 ```yaml
@@ -312,7 +195,74 @@ ai_tools: ["GitHub Copilot", "Ollama (Local LLMs)", "ChatGPT", "Gemini_CLI"]
 
 **Methodologies:** Agile, Scrum, Design Thinking
 
----
+## 📊 GitHub Stats
+
+  <p align="center">
+    <img align="center" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macorfilho&layout=compact&langs_count=8&theme=tokyonight" />
+    <img align="center" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=Macorfilho&theme=tokyonight" alt="Streak Stats" />
+  </p>
+
+## 📈 Recent Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Macorfilho/Macorfilho/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Macorfilho/Macorfilho/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/Macorfilho/Macorfilho/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+## 🎓 Education & Certifications
+
+### 🏫 Academic Education
+
+**Faculdade de Informática e Administração Paulista (FIAP)**
+
+- Computer Engineering
+- January 2023 - December 2027
+
+### 📜 Certifications
+
+**Highlights:**
+
+- Java Development - FIAP Nano Course (Feb 2025)
+- Python with Object-Oriented Programming - Alura (Mar 2025)
+- Git and GitHub: Mastering Version Control - Alura (Apr 2025)
+- First Certificate of English (FCE) - Cambridge (Dec 2019)
+
+<details>
+  <summary>View all certifications</summary>
+    
+    **Python:**
+    
+    - Python: Create Your First Application - Alura (March 2025)
+    - Python: Applying Object-Oriented Programming - Alura (March 2025)
+    - Python: Advancing in Object-Oriented Programming - Alura (March 2025)
+
+    **Java:**
+
+    - Java: Creating Your First Application - Alura (March 2025)
+    - Java Fundamentals - FIAP Nano Course (June 2024)
+
+    **DevOps & Version Control:**
+
+    - Git and GitHub: Sharing and Collaborating on Projects - Alura (April 2025)
+
+    **Web & Mobile:**
+
+    - JavaScript and HTML: Develop a Game - Alura (February 2024)
+    - iOS Development - FIAP Nano Course (October 2024)
+
+    **Fundamentals & Soft Skills:**
+
+    - Algorithms: Learn to Program - FIAP Nano Course (October 2023)
+    - Social Formation and Sustainability - FIAP Nano Course (March 2023)
+
+    **English:**
+
+    - Preliminary English Test (PET) - Cambridge (June 2019)
+
+</details>
 
 ## 📫 Let's Connect?
 
@@ -332,8 +282,6 @@ ai_tools: ["GitHub Copilot", "Ollama (Local LLMs)", "ChatGPT", "Gemini_CLI"]
 ![Spanish](https://img.shields.io/badge/Spanish-Fluent-red?style=for-the-badge)
 
 </div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=100&section=footer" />
