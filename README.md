@@ -244,9 +244,12 @@ Leading project refinement and specification in the Automation area, focusing on
 ## 📈 Recent Contributions
 
 <div align="center">
-  <img src="https://github.com/Macorfilho/Macorfilho/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Macorfilho/Macorfilho/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Macorfilho/Macorfilho/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/Macorfilho/Macorfilho/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
-
 ---
 
 ## 🎓 Education & Certifications
