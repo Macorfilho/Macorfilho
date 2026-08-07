@@ -7,6 +7,7 @@
     <a href="https://www.linkedin.com/in/marcelocorner/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:macorfilho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://github.com/Macorfilho"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://www.marcelocorner.dev"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   </p>
   
   <img src="https://komarev.com/ghpvc/?username=Macorfilho&color=blueviolet&style=for-the-badge" />
@@ -16,9 +17,9 @@
 
 Computer Engineering student at FIAP (2023-2027) passionate about using technology to solve real-world challenges. My tech journey started with curiosity about how things work and evolved into creating solutions that positively impact society.
 
-🎯 **My Edge:** I combine technical knowledge in software development with Product Management experience, having worked as PO at BTG Pactual (April-August 2025) in the Automation area.
+🎯 **My Edge:** I combine technical knowledge in software development with Product Management experience. Currently a Software Developer Intern at BTG Pactual (Automation, since March 2026), after working as PO in the same area (April-August 2025).
 
-🔬 **Current Focus:** Deepening knowledge in Artificial Intelligence, backend development, and IoT solutions for industrial systems.
+🔬 **Current Focus:** Building automation and AI-powered solutions with Python, Playwright, React, and LangChain/LangGraph.
 
 💡 **Future Vision:** Become a qualified software engineer specialized in AI and intelligent systems, contributing to projects that make a difference.
 
@@ -72,7 +73,7 @@ We created an innovative mobile application that enables reading, processing, an
 </tr><tr>
   <td width="50%" valign="top" style="border: none;">
     
-### 🥈 FIAP Challenge 2024 - Festo Digital Twin
+### 🥈 FIAP Challenge 2025 - Festo Digital Twin
 **2nd Place**
 
 Complete Digital Twin platform for production line optimization, applying Industry 4.0 concepts:
@@ -91,7 +92,7 @@ Complete Digital Twin platform for production line optimization, applying Indust
   </td>
   <td width="50%" valign="top" style="border: none;">
     
-### 🥉 Google Cloud GenAI Hackathon 2024
+### 🥉 Google Cloud GenAI Hackathon 2025
 **3rd Place**
 
 VisAI - AI Assistant for accessibility, the only team with a 100% functional prototype presented live. Developed in 4 hours:
@@ -113,7 +114,24 @@ VisAI - AI Assistant for accessibility, the only team with a 100% functional pro
 
 ## 💼 Professional Experience
 
-### 🏦 BTG Pactual - Product Owner (Automation)
+### 🏦 BTG Pactual - Software Developer (Automation Finance)
+
+**August 2026 - Present | Internship**
+
+Engineering and development of automations for finance-area routines, designing software solutions that eliminate repetitive manual work and mitigate operational risk in financial processes.
+
+**Stack:** Python, Playwright, React
+
+### 🏦 BTG Pactual - Software Developer (Automation Prototype)
+
+**March 2026 - July 2026 | Internship**
+
+Engineering and development of automations for internal routines, eliminating repetitive manual work in analyst routines and mitigating operational risk.
+
+- ⚡ **Impact:** Projects generating approximately **735h/month of efficiency**
+- 🤖 **Stack:** Python, Playwright, React
+
+### 🏦 BTG Pactual - Product Owner (Automation Discovery)
 
 **April 2025 - August 2025 | Internship**
 
@@ -122,9 +140,15 @@ Leading project refinement and specification in the Automation area, focusing on
 - 📊 **Process Analysis:** Identifying opportunities for efficiency gains
 - 🎨 **UI/UX Prototyping:** Interface design in Figma
 - 📝 **Technical Documentation:** Detailed project specifications
-- 🤝 **Collaboration:** Cross-functional work with technical teams
+- ⚡ **Impact:** Contributed to freeing up **950h/month of efficiency**
 
 **Developed Skills:** Product Management, Process Analysis, UI/UX Design, Technical Documentation
+
+### 💻 WordPress Developer / UI/UX Designer
+
+**2020 - 2023 | Freelance**
+
+Freelance website creation and app design, using WordPress for development and Figma for UI/UX design, delivering attractive digital solutions tailored to clients' needs.
 
 ## 🚀 Featured Projects
 
@@ -152,13 +176,19 @@ Leading project refinement and specification in the Automation area, focusing on
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 ### Cloud & DevOps
 
@@ -171,6 +201,7 @@ Leading project refinement and specification in the Automation area, focusing on
 ### Design & Prototyping
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6C37?style=for-the-badge&logo=autodesk&logoColor=white)
 
@@ -191,9 +222,8 @@ project_management: "Notion"
 design: "Figma"
 containerization: "Docker"
 ai_tools: ["GitHub Copilot", "Ollama (Local LLMs)", "ChatGPT", "Gemini_CLI"]
+Methodologies: Agile, Scrum, Design Thinking
 ```
-
-**Methodologies:** Agile, Scrum, Design Thinking
 
 ## 📊 GitHub Stats
 
@@ -273,6 +303,7 @@ ai_tools: ["GitHub Copilot", "Ollama (Local LLMs)", "ChatGPT", "Gemini_CLI"]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelocorner/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:macorfilho@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Macorfilho)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://www.marcelocorner.dev)
 
 📍 **Location:** São Paulo, Brazil  
 🌍 **Languages:**
