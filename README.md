@@ -150,23 +150,6 @@ Leading project refinement and specification in the Automation area, focusing on
 
 Freelance website creation and app design, using WordPress for development and Figma for UI/UX design, delivering attractive digital solutions tailored to clients' needs.
 
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Macorfilho/festo-digital-twin" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Macorfilho&repo=festo-digital-twin&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Macorfilho/api-marcacao-consultas" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Macorfilho&repo=api-marcacao-consultas&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Macorfilho/FestoAssist" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Macorfilho&repo=FestoAssist&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Macorfilho/marcacaoDeConsultasMedicas-ECB" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Macorfilho&repo=marcacaoDeConsultasMedicas-ECB&theme=tokyonight" />
-  </a>
-</div>
-
 ## 🛠️ Tech Stack
 
 ### Languages
