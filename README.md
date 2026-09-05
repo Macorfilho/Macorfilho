@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=200&section=header&text=Marcelo%20Rodriguez%20Corner%20Filho&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
   
-  <h3>💻 Software Engineer | 🤖 Automation & AI | 🏆 Innovation Champion</h3>
+  <h3>💻 Software Engineer | 🤖 Automation & AI | 🎓 Google Student Ambassador | 🏆 Innovation Champion</h3>
   
   <p>
     <a href="https://www.linkedin.com/in/marcelocorner/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
