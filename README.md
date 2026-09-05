@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=200&section=header&text=Marcelo%20Rodriguez%20Corner%20Filho&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
   
-  <h3>💻 Computer Engineering Student | 🤖 AI Enthusiast | 🏆 Innovation Champion</h3>
+  <h3>💻 Software Engineer | 🤖 Automation & AI | 🏆 Innovation Champion</h3>
   
   <p>
     <a href="https://www.linkedin.com/in/marcelocorner/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -17,20 +17,22 @@
 
 Computer Engineering student at FIAP (2023-2027) passionate about using technology to solve real-world challenges. My tech journey started with curiosity about how things work and evolved into creating solutions that positively impact society.
 
-🎯 **My Edge:** I combine technical knowledge in software development with Product Management experience. Currently a Software Developer Intern at BTG Pactual (Automation, since March 2026), after working as PO in the same area (April-August 2025).
+🎯 **My Edge:** I combine technical knowledge in software development with Product Management experience. Currently a Software Developer Intern at BTG Pactual (**Automation Finance**, since August 2026), after stints as Automation Prototype Developer and Product Owner in the same area.
 
-🔬 **Current Focus:** Building automation and AI-powered solutions with Python, Playwright, React, and LangChain/LangGraph.
+🔬 **Current Focus:** Building backend and automation solutions with Python (OOP, FastAPI/Flask), Playwright, React, SQL and REST APIs on AWS with CI/CD — plus AI-powered systems with LLMs, RAG and LangChain/LangGraph agents.
 
-💡 **Future Vision:** Become a qualified software engineer specialized in AI and intelligent systems, contributing to projects that make a difference.
+📣 **Community:** Google Student Ambassador — Generative AI (2026 program), promoting GenAI (LLMs, Gemini), prompt engineering, RAG and autonomous agents among students and my university community.
 
 ```yaml
 location: "São Paulo, Brazil"
+role: "Software Developer Intern @ BTG Pactual (Automation Finance)"
 education: "FIAP - Computer Engineering"
 languages: ["Portuguese (Native)", "English (Fluent)", "Spanish (Fluent)"]
 interests:
   [
     "Backend Development",
     "AI & Machine Learning",
+    "Process Automation",
     "IoT Systems",
     "Chess",
     "Travel",
@@ -85,14 +87,14 @@ Complete Digital Twin platform for production line optimization, applying Indust
 - Predictive analysis of line stoppage risk (updated every 30s)
 - Accessible interface for all technical levels
 
-**Technologies:** Python, Flask, AI/ML, IoT, Predictive Analysis
+**Technologies:** Python, Flask, React, Docker, AI/ML, IoT, Predictive Analysis
 
 **Team NewByte:** Amanda Ballet, Bruno Lopes, Pedro Nascimento
 
   </td>
   <td width="50%" valign="top" style="border: none;">
     
-### 🥉 Google Cloud GenAI Hackathon 2025
+### 🥉 Google GenAI Hackathon 2025
 **3rd Place**
 
 VisAI - AI Assistant for accessibility, the only team with a 100% functional prototype presented live. Developed in 4 hours:
@@ -118,24 +120,27 @@ VisAI - AI Assistant for accessibility, the only team with a 100% functional pro
 
 **August 2026 - Present | Internship**
 
-Engineering and development of automations for finance-area routines, designing software solutions that eliminate repetitive manual work and mitigate operational risk in financial processes.
+Backend engineering and web automations for financial routines, designing software solutions that eliminate repetitive manual work and mitigate operational risk in financial processes.
 
-**Stack:** Python, Playwright, React
+- ⚡ **Impact:** Eliminating manual work and mitigating operational risk across finance routines
+- 🤖 **Stack:** Python (OOP, FastAPI/Flask), Playwright, JavaScript/React, SQL, RESTful APIs
+- ☁️ **Practices:** AWS, CI/CD, Agile/Scrum
 
 ### 🏦 BTG Pactual - Software Developer (Automation Prototype)
 
 **March 2026 - July 2026 | Internship**
 
-Engineering and development of automations for internal routines, eliminating repetitive manual work in analyst routines and mitigating operational risk.
+Engineering and development of automations and web scraping for internal routines, eliminating repetitive manual work in analyst routines and mitigating operational risk.
 
 - ⚡ **Impact:** Projects generating approximately **735h/month of efficiency**
-- 🤖 **Stack:** Python, Playwright, React
+- 🤖 **Stack:** Python, Playwright, JavaScript/React, SQL, RESTful APIs
+- 🛠️ **Tooling:** Git/GitHub, Docker
 
 ### 🏦 BTG Pactual - Product Owner (Automation Discovery)
 
 **April 2025 - August 2025 | Internship**
 
-Leading project refinement and specification in the Automation area, focusing on optimizing manual and high-risk routines:
+Leading Product Discovery, refinement and specification of automation projects for manual, high-risk routines:
 
 - 📊 **Process Analysis:** Identifying opportunities for efficiency gains
 - 🎨 **UI/UX Prototyping:** Interface design in Figma
@@ -156,8 +161,9 @@ Freelance website creation and app design, using WordPress for development and F
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -175,11 +181,21 @@ Freelance website creation and app design, using WordPress for development and F
 
 ### Cloud & DevOps
 
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### AI & Automation
+
+![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=huggingface&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge&logo=colororacle&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-886CE4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Process Automation](https://img.shields.io/badge/Process_Automation-00C4CC?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### Design & Prototyping
 
@@ -193,6 +209,7 @@ Freelance website creation and app design, using WordPress for development and F
 ![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=iot&logoColor=white)
 ![Backend](https://img.shields.io/badge/Backend-121011?style=for-the-badge&logo=node.js&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=postman&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-013243?style=for-the-badge&logo=pandas&logoColor=white)
 
 ## ⚙️ How I Work
