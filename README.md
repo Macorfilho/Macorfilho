@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=200&section=header&text=Marcelo%20Rodriguez%20Corner%20Filho&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
   
-  <h3>💻 Software Engineer | 🤖 Automation & AI | 🎓 Google Student Ambassador | 🏆 Innovation Champion</h3>
+  <h3>💻 Software Engineer | 🔌 Payments APIs & Integrations | 🤖 Automation & AI | 🎓 Google Student Ambassador | 🏆 Innovation Champion</h3>
   
   <p>
     <a href="https://www.linkedin.com/in/marcelocorner/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -15,21 +15,27 @@
 
 ## 👨‍💻 About Me
 
-Computer Engineering student at FIAP (2023-2027) passionate about using technology to solve real-world challenges. My tech journey started with curiosity about how things work and evolved into creating solutions that positively impact society.
+Computer Engineering student at FIAP (2023-2027) building software for financial infrastructure — from backend automations that remove manual work to the REST APIs that move money across borders.
 
-🎯 **My Edge:** I combine technical knowledge in software development with Product Management experience. Currently a Software Developer Intern at BTG Pactual (**Automation Finance**, since August 2026), after stints as Automation Prototype Developer and Product Owner in the same area.
+🎯 **My Edge:** I combine product thinking with hands-on engineering. I learned to specify, prioritize and document as an automation Product Owner, then turned that into delivery as a developer. Today I'm a **Software Engineer at NYBANQ** (**cross-border payments & digital assets**, since October 2026), working on developer experience and API integrations.
 
-🔬 **Current Focus:** Building backend and automation solutions with Python (OOP, FastAPI/Flask), Playwright, React, SQL and REST APIs on AWS with CI/CD — plus AI-powered systems with LLMs, RAG and LangChain/LangGraph agents.
+🔌 **Current Focus:** Public REST API documentation and enablement — OpenAPI/Swagger specifications and Postman Collections for Virtual Accounts, payment origination (ACH, Wire, RTP) and webhook notification events; technical integration guides and multi-language code samples (Python, Node.js, cURL); end-to-end sandbox payload testing, schema validation and webhook delivery monitoring alongside banking partners and payment networks.
+
+🛠️ **Track Record:** Three short-job rotations at BTG Pactual (2025-2026) — Automation Finance, Automation Prototype and Automation Discovery (PO). Python and Playwright automations, backend services and process discovery for financial routines, with projects that freed up ~950h/month and ~735h/month of analyst effort and mitigated operational risk.
 
 📣 **Community:** Google Student Ambassador — Generative AI (2026 program), promoting GenAI (LLMs, Gemini), prompt engineering, RAG and autonomous agents among students and my university community.
 
 ```yaml
 location: "São Paulo, Brazil"
-role: "Software Developer Intern @ BTG Pactual (Automation Finance)"
-education: "FIAP - Computer Engineering"
+role: "Software Engineer @ NYBANQ — cross-border payments & digital assets"
+focus: ["Developer experience", "API integrations", "Banking rail interoperability"]
+previous: "BTG Pactual — Automation (2025-2026, 3 short jobs)"
+education: "FIAP - Computer Engineering (2023-2027)"
 languages: ["Portuguese (Native)", "English (Fluent)", "Spanish (Fluent)"]
 interests:
   [
+    "Payments & Banking Rails",
+    "API Design & Developer Experience",
     "Backend Development",
     "AI & Machine Learning",
     "Process Automation",
@@ -37,7 +43,7 @@ interests:
     "Chess",
     "Travel",
   ]
-currently_learning: ["Local LLMs", "Cloud Infrastructure", "RAG Systems"]
+currently_learning: ["Digital Assets & Settlement Rails", "Cloud Infrastructure", "Local LLMs", "RAG Systems"]
 ```
 
 ## 🏆 Achievements & Recognition
@@ -116,9 +122,21 @@ VisAI - AI Assistant for accessibility, the only team with a 100% functional pro
 
 ## 💼 Professional Experience
 
+### 🌎 NYBANQ - Software Engineer (Cross-Border Payments & Digital Assets)
+
+**October 2026 - Present | Remote, São Paulo**
+
+Supporting NYBANQ's cross-border payments and digital asset infrastructure, focused on developer experience, API integrations and banking rail interoperability.
+
+- 📘 **API Documentation & DX:** Maintaining OpenAPI/Swagger specifications and Postman Collections for the core public REST APIs — Virtual Accounts, payment origination (ACH, Wire, RTP) and webhook notification events
+- 🔌 **Client Integration Enablement:** Authoring technical integration guides and multi-language code samples (Python, Node.js, cURL) for institutional clients and partners
+- 🧪 **Sandbox Validation:** End-to-end payload testing, schema definition validation, connectivity debugging and webhook delivery monitoring with strategic banking partners and payment networks
+- 🔍 **QA & Technical Support:** Testing client-facing onboarding workflows and API endpoints, identifying technical edge cases, payload discrepancies and connectivity bottlenecks
+- 🗂️ **Architecture & Documentation:** Maintaining internal developer knowledge bases, architecture flowcharts and implementation runbooks
+
 ### 🏦 BTG Pactual - Software Developer (Automation Finance)
 
-**August 2026 - Present | Internship**
+**August 2026 - October 2026 | Internship**
 
 Backend engineering and web automations for financial routines, designing software solutions that eliminate repetitive manual work and mitigate operational risk in financial processes.
 
@@ -179,6 +197,17 @@ Freelance website creation and app design, using WordPress for development and F
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
+### APIs & Payments
+
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=postman&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-8957E5?style=for-the-badge)
+![ACH | Wire | RTP](https://img.shields.io/badge/ACH_%7C_Wire_%7C_RTP-1F6FEB?style=for-the-badge)
+![Cross-border Payments](https://img.shields.io/badge/Cross--border_Payments-0052CC?style=for-the-badge&logo=stripe&logoColor=white)
+![Digital Assets](https://img.shields.io/badge/Digital_Assets-3D5AFE?style=for-the-badge&logo=bitcoin&logoColor=white)
+
 ### Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=white)
@@ -209,7 +238,6 @@ Freelance website creation and app design, using WordPress for development and F
 ![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=iot&logoColor=white)
 ![Backend](https://img.shields.io/badge/Backend-121011?style=for-the-badge&logo=node.js&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=postman&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-013243?style=for-the-badge&logo=pandas&logoColor=white)
 
 ## ⚙️ How I Work
@@ -218,6 +246,7 @@ Freelance website creation and app design, using WordPress for development and F
 code_editor: ["VS Code", "Cursor", "IntelliJ IDEA"]
 terminal: "Warp"
 version_control: "Git + GitHub"
+api_tooling: ["OpenAPI / Swagger", "Postman", "curl"]
 project_management: "Notion"
 design: "Figma"
 containerization: "Docker"
