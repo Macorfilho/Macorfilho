@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=200&section=header&text=Marcelo%20Rodriguez%20Corner%20Filho&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
   
-  <h3>💻 Software Engineer | 🔌 Payments APIs & Integrations | 🤖 Automation & AI | 🎓 Google Student Ambassador | 🏆 Innovation Champion</h3>
+  <h3>💻 Software Engineer | 🔌 Payments APIs & Integrations | 🤖 Automation & AI | 🎓 Google Student Ambassador | 🏆 4× FIAP NEXT Podium</h3>
   
   <p>
     <a href="https://www.linkedin.com/in/marcelocorner/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -11,6 +11,11 @@
   </p>
   
   <img src="https://komarev.com/ghpvc/?username=Macorfilho&color=blueviolet&style=for-the-badge" />
+
+  <p>
+    <b>🏆 4× FIAP NEXT podium (2023 → 2026) — 3 championship titles</b><br/>
+    <sub>Latest: 🥇 1st place · John Deere | Google Agrointelligence Challenge 2026</sub>
+  </p>
 </div>
 
 ## 👨‍💻 About Me
@@ -48,8 +53,30 @@ currently_learning: ["Digital Assets & Settlement Rails", "Cloud Infrastructure"
 
 ## 🏆 Achievements & Recognition
 
+**Four consecutive years on the FIAP NEXT podium** — 2023, 2024, 2025 and 2026 — with 3 championship titles across 4 different challenges (mobility, industry, accessibility and agro-intelligence).
+
 <table style="border-collapse: collapse; border: none;">
 <tr>
+  <td colspan="2" valign="top" style="border: none;">
+
+### 🥇 John Deere | Google Agrointelligence Challenge 2026
+**1st Place — FIAP NEXT 2026**
+
+An offline cognitive copilot embedded in the cab of John Deere forestry harvesters (Harvester 1270G). It reads fault codes from the CAN bus and walks the operator through a safe repair — with no internet, gloves on and 75-90 dB of engine noise around.
+
+**Key Achievements:**
+
+- ESP32 reads DTCs from the CAN/J1939 bus and translates them into plain language: probable cause, risk if ignored and the physical location of the component
+- Two-layer AI: 22 faults mapped from the official manual in a local catalog + ChromaDB RAG over the 400-page 1270G manual, with anti-hallucination guardrails — the LLM never drives the flow
+- Safety triage with a virtual LOTO checklist before any intervention; critical faults block the repair and escalate straight to John Deere's Connected Solutions Center through an offline QR code
+- Voice guidance with cached TTS audio and on-screen fallback, built for a cabin the operator cannot look away from
+
+**Technologies:** Python, FastAPI, React + TypeScript (PWA), ESP32 firmware, CAN/J1939, ChromaDB, Ollama, WebSockets, SQLite
+
+**Team NewByte:** Amanda Ballet, Bruno Lopes, Thiago Sardinha, Pedro Nascimento
+
+  </td>
+</tr><tr>
   <td width="50%" valign="top" style="border: none;">
     
 ### 🥇 SPI + ABDI Gen AI Challenge 2024
