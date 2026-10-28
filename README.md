@@ -4,7 +4,7 @@
   <h3>💻 Software Engineer | 🔌 Payments APIs & Integrations | 🤖 Automation & AI | 🎓 Google Student Ambassador | 🏆 4× FIAP NEXT Podium</h3>
   
   <p>
-    <a href="https://www.linkedin.com/in/marcelocorner/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/marcelocorner/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHJvbGU9ImltZyIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D&logoColor=white" /></a>
     <a href="mailto:macorfilho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://github.com/Macorfilho"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="https://www.marcelocorner.dev"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -220,7 +220,7 @@ Freelance website creation and app design, using WordPress for development and F
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHJvbGU9ImltZyIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMjMuOTk2IDcuNDYyYy0uMDU2LjgzNy0uMjU3IDIuMTM1LS43MTYgMy44NS0uOTk1IDMuNzE1LTQuMjcgMTAuODc0LTEwLjQyIDkuMjI3LTYuMTUtMS42NS01LjQwNy05LjQ4Ny00LjQxMi0xMy4yMDEuNDYtMS43MTYuOTM0LTIuOTQgMS4zMDUtMy42OTQuNDItLjg1My44NDYtLjI4OSAxLjgxNS41MjMuNjg0LjU3MyAyLjQxIDEuNzkxIDUuMDExIDIuNDg4IDIuNjAxLjY5NyA0LjcwNi41MDYgNS41ODMuMzUyIDEuMjQ1LS4yMTkgMS44OTctLjQ5NCAxLjgzNC40NTVabS05LjgwNyAzLjg2M3MtLjEyNy0xLjgxOS0xLjc3My0yLjI4NmMtMS42NDQtLjQ2Ny0yLjYxMyAxLjA0LTIuNjEzIDEuMDRabTQuMDU4IDQuNTM5LTcuNzY5LTIuMTcycy40NDYgMi4zMDYgMy4zMzggMy4xNTNjMi44NjIuODM2IDQuNDMtLjk4IDQuNDMtLjk4MVptMi43MDEtMi41MXMtLjEzLTEuODE4LTEuNzczLTIuMjg2Yy0xLjY0NC0uNDY5LTIuNjEyIDEuMDM4LTIuNjEyIDEuMDM4Wk04LjU3IDE4LjIzYy00Ljc0OSAxLjI3OS03LjI2MS00LjIyNC04LjAyMS03LjA4Qy4xOTcgOS44MzEuMDQ0IDguODMyLjAwMyA4LjE4OGMtLjA0Ny0uNzMuNDU1LS41MiAxLjQxNS0uMzU0LjY3Ny4xMTggMi4zLjI2MSA0LjMwOC0uMjhhMTEuMjggMTEuMjggMCAwIDAgMi40MS0uOTU2Yy0uMDU4LjE5Ny0uMTE0LjQtLjE3LjYxLS40MzMgMS42MTgtLjgyNyA0LjA1NS0uNjMyIDYuNDI2LTEuOTc2LjczMi0yLjI2NyAyLjQyMy0yLjI2NyAyLjQyM2wyLjUyNC0uNzE1Yy4yMjcgMS4wMDIuNiAxLjk4NyAxLjE1IDIuODM4YTUuOTE0IDUuOTE0IDAgMCAxLS4xNzEuMDQ5Wm0tNC4xODgtNi4yOThjMS4yNjUtLjMzMyAxLjM2My0xLjYzMSAxLjM2My0xLjYzMWwtMy4zNzQuODg4cy43NDUgMS4wNzYgMi4wMS43NDNaIi8%2BPC9zdmc%2B&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
@@ -238,7 +238,7 @@ Freelance website creation and app design, using WordPress for development and F
 ### Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHJvbGU9ImltZyIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTYuNDEyIDQuNDEyaC04LjgyYTcuNTg4IDcuNTg4IDAgMCAwLS4wMDggMTUuMTc2aDguODI4YTcuNTg4IDcuNTg4IDAgMCAwIDAtMTUuMTc2em0tLjE5MyAxMi41MDJINy43ODZhNC45MTUgNC45MTUgMCAwIDEgMC05LjgyOGg4LjQzM2E0LjkxNCA0LjkxNCAwIDEgMSAwIDkuODI4eiIvPjwvc3ZnPg%3D%3D&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -247,10 +247,10 @@ Freelance website creation and app design, using WordPress for development and F
 
 ![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=huggingface&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge&logo=colororacle&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-886CE4?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Web Scraping](https://img.shields.io/badge/Web_Scraping-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-2EAD33?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHJvbGU9ImltZyIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMjMuOTk2IDcuNDYyYy0uMDU2LjgzNy0uMjU3IDIuMTM1LS43MTYgMy44NS0uOTk1IDMuNzE1LTQuMjcgMTAuODc0LTEwLjQyIDkuMjI3LTYuMTUtMS42NS01LjQwNy05LjQ4Ny00LjQxMi0xMy4yMDEuNDYtMS43MTYuOTM0LTIuOTQgMS4zMDUtMy42OTQuNDItLjg1My44NDYtLjI4OSAxLjgxNS41MjMuNjg0LjU3MyAyLjQxIDEuNzkxIDUuMDExIDIuNDg4IDIuNjAxLjY5NyA0LjcwNi41MDYgNS41ODMuMzUyIDEuMjQ1LS4yMTkgMS44OTctLjQ5NCAxLjgzNC40NTVabS05LjgwNyAzLjg2M3MtLjEyNy0xLjgxOS0xLjc3My0yLjI4NmMtMS42NDQtLjQ2Ny0yLjYxMyAxLjA0LTIuNjEzIDEuMDRabTQuMDU4IDQuNTM5LTcuNzY5LTIuMTcycy40NDYgMi4zMDYgMy4zMzggMy4xNTNjMi44NjIuODM2IDQuNDMtLjk4IDQuNDMtLjk4MVptMi43MDEtMi41MXMtLjEzLTEuODE4LTEuNzczLTIuMjg2Yy0xLjY0NC0uNDY5LTIuNjEyIDEuMDM4LTIuNjEyIDEuMDM4Wk04LjU3IDE4LjIzYy00Ljc0OSAxLjI3OS03LjI2MS00LjIyNC04LjAyMS03LjA4Qy4xOTcgOS44MzEuMDQ0IDguODMyLjAwMyA4LjE4OGMtLjA0Ny0uNzMuNDU1LS41MiAxLjQxNS0uMzU0LjY3Ny4xMTggMi4zLjI2MSA0LjMwOC0uMjhhMTEuMjggMTEuMjggMCAwIDAgMi40MS0uOTU2Yy0uMDU4LjE5Ny0uMTE0LjQtLjE3LjYxLS40MzMgMS42MTgtLjgyNyA0LjA1NS0uNjMyIDYuNDI2LTEuOTc2LjczMi0yLjI2NyAyLjQyMy0yLjI2NyAyLjQyM2wyLjUyNC0uNzE1Yy4yMjcgMS4wMDIuNiAxLjk4NyAxLjE1IDIuODM4YTUuOTE0IDUuOTE0IDAgMCAxLS4xNzEuMDQ5Wm0tNC4xODgtNi4yOThjMS4yNjUtLjMzMyAxLjM2My0xLjYzMSAxLjM2My0xLjYzMWwtMy4zNzQuODg4cy43NDUgMS4wNzYgMi4wMS43NDNaIi8%2BPC9zdmc%2B&logoColor=white)
 ![Process Automation](https://img.shields.io/badge/Process_Automation-00C4CC?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### Design & Prototyping
@@ -288,13 +288,13 @@ Methodologies: Agile, Scrum, Design Thinking
     <img align="center" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=Macorfilho&theme=tokyonight" alt="Streak Stats" />
   </p>
 
-## 📈 Recent Contributions
+## 📈 Contribution Graph
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Macorfilho/Macorfilho/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Macorfilho/Macorfilho/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/Macorfilho/Macorfilho/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Macorfilho/Macorfilho/output-3d-contrib/night.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Macorfilho/Macorfilho/output-3d-contrib/day.svg" />
+    <img alt="3D isometric contribution graph" src="https://raw.githubusercontent.com/Macorfilho/Macorfilho/output-3d-contrib/day.svg" />
   </picture>
 </div>
 
@@ -356,7 +356,7 @@ Methodologies: Agile, Scrum, Design Thinking
   
 💼 I'm always open to discussing technology, innovative projects, or collaboration opportunities!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelocorner/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHJvbGU9ImltZyIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D&logoColor=white)](https://www.linkedin.com/in/marcelocorner/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:macorfilho@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Macorfilho)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://www.marcelocorner.dev)
