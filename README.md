@@ -149,9 +149,9 @@ VisAI - AI Assistant for accessibility, the only team with a 100% functional pro
 
 ## 💼 Professional Experience
 
-### 🌎 NYBANQ - Software Engineer (Cross-Border Payments & Digital Assets)
+### 🌎 NYBANQ - Software Engineer
 
-**October 2026 - Present | Remote, São Paulo**
+**October 2026 - Present | New York (Remote)**
 
 Supporting NYBANQ's cross-border payments and digital asset infrastructure, focused on developer experience, API integrations and banking rail interoperability.
 
